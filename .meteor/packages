@@ -27,3 +27,4 @@ accounts-password
 audit-argument-checks
 check
 ejson
+session
